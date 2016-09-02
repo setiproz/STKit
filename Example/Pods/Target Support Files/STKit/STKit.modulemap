@@ -1,6 +1,0 @@
-framework module STKit {
-  umbrella header "STKit-umbrella.h"
-
-  export *
-  module * { export * }
-}

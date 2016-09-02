@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'STKit'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This library can make iOS development easily'
   s.description      = <<-DESC
 This library can make iOS development easily. It will include UIView, draw, animation, file operation, db operation, and anything can make the developer happy ^_^
